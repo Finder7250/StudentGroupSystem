@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|c:\\users\\victor\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\studentgroupsystem\\studentgroupsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|solutionrelative:studentgroupsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|c:\\users\\victor\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\studentgroupsystem\\studentgroupsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|solutionrelative:studentgroupsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|c:\\users\\victor\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\studentgroupsystem\\studentgroupsystem\\views\\reportsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|solutionrelative:studentgroupsystem\\views\\reportsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|c:\\users\\victor\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\studentgroupsystem\\studentgroupsystem\\views\\reportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|solutionrelative:studentgroupsystem\\views\\reportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|c:\\users\\victor\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\studentgroupsystem\\studentgroupsystem\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|solutionrelative:studentgroupsystem\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|c:\\users\\victor\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\studentgroupsystem\\studentgroupsystem\\views\\searchview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|solutionrelative:studentgroupsystem\\views\\searchview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|c:\\users\\victor\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\studentgroupsystem\\studentgroupsystem\\views\\searchview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|solutionrelative:studentgroupsystem\\views\\searchview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|c:\\users\\victor\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\studentgroupsystem\\studentgroupsystem\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|solutionrelative:studentgroupsystem\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|c:\\users\\victor\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\studentgroupsystem\\studentgroupsystem\\views\\studentsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|solutionrelative:studentgroupsystem\\views\\studentsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|c:\\users\\victor\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\studentgroupsystem\\studentgroupsystem\\views\\studentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|solutionrelative:studentgroupsystem\\views\\studentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|c:\\users\\victor\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\studentgroupsystem\\studentgroupsystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|solutionrelative:studentgroupsystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|c:\\users\\victor\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\studentgroupsystem\\studentgroupsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D17AE0-31D8-4A5B-A8B7-B8FA9A90D48C}|StudentGroupSystem\\StudentGroupSystem.csproj|solutionrelative:studentgroupsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportsView.xaml",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Views\\ReportsView.xaml",
+              "RelativeDocumentMoniker": "StudentGroupSystem\\Views\\ReportsView.xaml",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Views\\ReportsView.xaml",
+              "RelativeToolTip": "StudentGroupSystem\\Views\\ReportsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T07:34:10.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "StudentGroupSystem\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Services\\ReportService.cs",
+              "RelativeToolTip": "StudentGroupSystem\\Services\\ReportService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:33:40.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Views\\SearchView.xaml.cs",
+              "RelativeDocumentMoniker": "StudentGroupSystem\\Views\\SearchView.xaml.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Views\\SearchView.xaml.cs",
+              "RelativeToolTip": "StudentGroupSystem\\Views\\SearchView.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:33:12.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StudentGroupSystem\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\MainWindow.xaml",
+              "RelativeToolTip": "StudentGroupSystem\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T06:56:18.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentGroupSystem\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StudentGroupSystem\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:56:17.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Views\\ReportsView.xaml.cs",
+              "RelativeDocumentMoniker": "StudentGroupSystem\\Views\\ReportsView.xaml.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Views\\ReportsView.xaml.cs",
+              "RelativeToolTip": "StudentGroupSystem\\Views\\ReportsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:34:37.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchView.xaml",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Views\\SearchView.xaml",
+              "RelativeDocumentMoniker": "StudentGroupSystem\\Views\\SearchView.xaml",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Views\\SearchView.xaml",
+              "RelativeToolTip": "StudentGroupSystem\\Views\\SearchView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T07:32:46.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "StudentGroupSystem\\Services\\SearchService.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Services\\SearchService.cs",
+              "RelativeToolTip": "StudentGroupSystem\\Services\\SearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:32:19.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Views\\StudentsView.xaml.cs",
+              "RelativeDocumentMoniker": "StudentGroupSystem\\Views\\StudentsView.xaml.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Views\\StudentsView.xaml.cs",
+              "RelativeToolTip": "StudentGroupSystem\\Views\\StudentsView.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:31:37.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsView.xaml",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Views\\StudentsView.xaml",
+              "RelativeDocumentMoniker": "StudentGroupSystem\\Views\\StudentsView.xaml",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Views\\StudentsView.xaml",
+              "RelativeToolTip": "StudentGroupSystem\\Views\\StudentsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T07:31:09.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentGroupSystem\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentGroupSystem\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:30:36.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentGroupSystem\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\StudentGroupSystem\\StudentGroupSystem\\Models\\Student.cs",
+              "RelativeToolTip": "StudentGroupSystem\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:30:05.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
